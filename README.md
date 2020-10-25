@@ -1,3 +1,9 @@
+React-based Google Books Search app. This app uses Node, Express and MongoDB so that users can save books to review or purchase later.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
